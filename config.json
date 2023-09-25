@@ -1,0 +1,8 @@
+{
+    "mongoURI": "mongodb+srv://RaifKhodri:HjlGTZ4srLM7Vo5r@raifkhodri.wccs5yb.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp",
+    "mongooseOptions": {
+      "useNewUrlParser": true,
+      "useUnifiedTopology": true
+    }
+  }
+  
